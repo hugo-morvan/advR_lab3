@@ -8,6 +8,7 @@ Description: This package was created for the lab 3 in the course Advanced R pro
 License: GPL
 Encoding: UTF-8
 RoxygenNote: 7.2.3
+Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
