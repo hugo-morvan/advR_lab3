@@ -3,6 +3,9 @@
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/hugo-morvan/advR_lab3/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hugo-morvan/advR_lab3/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
+<!-- badges: start -->
+[![test-coverage](https://github.com/hugo-morvan/advR_lab3/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/hugo-morvan/advR_lab3/actions/workflows/test-coverage.yaml)
+<!-- badges: end -->
 
  
 Repository for Lab 3 in Advanced R programming 732A94.
