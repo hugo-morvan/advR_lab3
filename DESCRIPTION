@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Simge Cinar, Hugo Morvan
 Maintainer: Simge Cinar <simci637@student.liu.se>, Hugo Morvan <hugmo418@student.liu.se>
 Description: This package was created for the lab 3 in the course Advanced R programming (732A94). It contains two function, "euclidian" and "dijkstra", as per the lab requirements.
-License: GPL
+License: GPL | file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 Imports:
